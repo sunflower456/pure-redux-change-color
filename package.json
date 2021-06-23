@@ -1,0 +1,16 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "redux example",
+  "main": "reduxServer.js",
+  "dependencies": {
+    "redux": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node reduxServer.js"
+  },
+  "author": "sunflower",
+  "license": "ISC"
+}
